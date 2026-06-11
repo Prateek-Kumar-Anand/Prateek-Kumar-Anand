@@ -48,9 +48,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prateek-Kumar-Anand&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
