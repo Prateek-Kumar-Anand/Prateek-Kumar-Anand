@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Prateek Kumar Anand</h1>
+<h1 align="center">Hey, I'm Prateek Kumar Anand</h1>
 <h3 align="center">Student | AI/ML Explorer | Building real things with Python, JS & IoT</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 - 🎓 Student exploring **AI, Machine Learning & Software Development**
 - 🔧 Currently building **Ads Refiner 2.0** — a Chrome extension for ad/tracker blocking
-- 🤖 Working on a **Raspberry Pi 5 automation assistant** for freelance services
+- 🤖 Working on a **Raspberry Pi 5 automation assistant**
 - 🌱 Learning **PyTorch, CNNs, NLP** and deploying ML models
 - 💡 Interests: Browser extensions, IoT security, automation tools
 - 📍 Based in **Prayagraj, India**
