@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prateek+%F0%9F%91%8B;AI%2FML+%26+IoT+Enthusiast+%F0%9F%A4%96;Building+Chrome+Extensions+%26+ESP32+Projects+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Prateek+%F0%9F%91%8B;AI%2FML+%26+IoT+Enthusiast+%F0%9F%A4%96;Building+Chrome+Extensions+%26+ESP32+Projects+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prateek-Kumar-Anand&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Student-blue?style=flat&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20IoT%20%7C%20Web-orange?style=flat" />
 </p>
@@ -83,7 +82,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prateek-Kumar-Anand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateek-Kumar-Anand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Prateek-Kumar-Anand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -91,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Kumar-Anand&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Kumar-Anand&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </p>
 
 ---
