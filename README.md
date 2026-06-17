@@ -78,21 +78,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prateek-Kumar-Anand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Prateek-Kumar-Anand&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-Kumar-Anand&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Kumar-Anand&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</p>
-
 ---
 
 ### 🌱 Currently Learning
