@@ -1,110 +1,126 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Prateek+%F0%9F%91%8B;AI%2FML+%26+IoT+Enthusiast+%F0%9F%A4%96;Building+Chrome+Extensions+%26+ESP32+Projects+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Prateek%20Kumar%20Anand&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+
+### Self-taught dev building games · browser extensions · IoT · and learning data one script at a time
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++ Arduino](https://img.shields.io/badge/C%2B%2B%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Student-blue?style=flat&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20IoT%20%7C%20Web-orange?style=flat" />
-</p>
+---
+
+## 🗂 Projects
+
+| | Project | Stack | What it does |
+|---|---|---|---|
+| ⚡ | [**Iron Slug — City Warfare**](#-iron-slug--city-warfare) | HTML5 Canvas · JS | 2D run-and-gun game, PWA + Android |
+| 🛡️ | [**Ads Refiner**](#%EF%B8%8F-ads-refiner--safe-link-guard) | JS · Chrome MV3 | Ad blocker + phishing & download protection |
+| 📊 | [**DataGrapher**](#-datagrapher) | JS · Chart.js | Scrapes numbers off any page, charts them offline |
+| 🕸️ | [**SPider**](#%EF%B8%8F-spider) | JS · Chrome MV3 | One-click screenshot capture & organizer |
+| 🔐 | [**IoT Security Projects**](#-iot-security-projects) | C++ · ESP32 | Password vaults, sensors, browser-controlled hardware |
+| 🐍 | [**Python Data Handling**](#-python-data-handling) | Python · pandas | Data cleaning, functions & web scraping practice |
 
 ---
 
-### 👨‍💻 About Me
+## ⚡ Iron Slug — City Warfare
 
-🎓 I'm a **student** exploring **Artificial Intelligence, Machine Learning, and Software Development** — learning by building real things instead of just reading about them.
+> *Retro 2D side-scroller — no engine, no frameworks, just Canvas.*
 
-🔧 I build small but practical projects across **Python, JavaScript, and IoT (ESP32 / Raspberry Pi)** — from Chrome extensions to embedded security devices.
+Built in vanilla **HTML5 / CSS3 / JS** — playable on desktop and Android via PWA + touch controls.
 
-📈 Constantly working on improving my **problem-solving skills** and turning side-projects into polished, publishable products.
+- 3 enemy types (Brawler · Rusher · Sniper) each with unique AI
+- Full Level 1 with sub-stages, fall pits & a multi-phase boss
+- Offline-capable via service worker caching
+- Extensible stage-builder pattern for future levels
 
-🌍 Based in **Prayagraj, India** 🇮🇳
-
----
-
-### 🚀 What I'm Up To
-
-- 🧩 Building **Chrome extensions** — Ads Refiner (ad/tracker blocking) & SPider (screenshot capture & organizer)
-- 🤖 Building **AI/ML projects** with Python, NumPy, Pandas, and PyTorch (RAG chatbots, object detection, and more)
-- 🔌 Designing **ESP32 & Raspberry Pi** based IoT devices — password vaults, game consoles, web servers & automation tools
-- 💼 Exploring **freelancing** opportunities by turning automation scripts into client-ready services
-- 📚 Following a structured **AI/ML learning roadmap** — Python → ML algorithms → Deep Learning → Deployment
+🔗 [`github.com/Prateek-Kumar-Anand/Web-game`](https://github.com/Prateek-Kumar-Anand/Web-game)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛡️ Ads Refiner — Safe Link Guard
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,html,css,react,nodejs,git,github,vscode,arduino,raspberrypi,linux" alt="Skills" />
-</p>
+> *Privacy-first Chrome extension. No accounts, no API keys, fully local.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</p>
+**v2.0.1 · Chrome MV3** — blocks ads, flags phishing links, and cancels risky downloads.
 
----
+- Native `declarativeNetRequest` blocking + cosmetic hiding
+- Suspicious-link interstitial — catches raw IPs, punycode, bad TLDs, unsafe downloads
+- Analytics dashboard — block history, domain reputation, whitelist, CSV/JSON export
+- Bonus: live RAM monitor + per-site time tracker
 
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Prateek-Kumar-Anand/Ads-refiner-extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-Kumar-Anand&repo=Ads-refiner-extension&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Prateek-Kumar-Anand/SPider-web-extension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-Kumar-Anand&repo=SPider-web-extension&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Prateek-Kumar-Anand/iot-security-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-Kumar-Anand&repo=iot-security-projects&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Prateek-Kumar-Anand/Python-coding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-Kumar-Anand&repo=Python-coding&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-| Project | Description |
-|---|---|
-| 🧩 **[Ads Refiner](https://github.com/Prateek-Kumar-Anand/Ads-refiner-extension)** | A Chrome extension to block ads & trackers — includes a system dashboard with live RAM usage and per-site time tracking |
-| 🕸️ **[SPider](https://github.com/Prateek-Kumar-Anand/SPider-web-extension)** | A Chrome extension that captures, organizes & manages website screenshots — one-click capture, history panel, and folder browser, all from the toolbar |
-| 🔐 **[IoT Security Projects](https://github.com/Prateek-Kumar-Anand/iot-security-projects)** | ESP32-based security & embedded devices — password vaults, OTA updates, motor control, web servers & display modules |
-| 🐍 **[Python Coding](https://github.com/Prateek-Kumar-Anand/Python-coding)** | Python scripts for data handling, missing-value cleanup with pandas, functions, and web scraping |
+🔗 [`github.com/Prateek-Kumar-Anand/Ads-refiner-extension`](https://github.com/Prateek-Kumar-Anand/Ads-refiner-extension)
 
 ---
 
+## 📊 DataGrapher
+
+> *Point it at any webpage — get a chart.*
+
+Lightweight **Chrome MV3** extension *(repo: Euler)* that extracts numbers from page text and lets you visualize them instantly — 100% offline.
+
+- Regex-based extraction of number + context-word pairs from full page or selection
+- Bar / Line / Pie via a **bundled offline** Chart.js (zero network dependency)
+- Export to PNG or CSV in one click
+- Minimal permissions: `activeTab` + `scripting` only
+
+🔗 [`github.com/Prateek-Kumar-Anand/Euler`](https://github.com/Prateek-Kumar-Anand/Euler)
+
 ---
 
-### 🌱 Currently Learning
+## 🕸️ SPider
 
-```text
-🐍 Python  →  📊 Pandas / NumPy  →  🧠 ML Algorithms  →  🔥 PyTorch / Deep Learning  →  ☁️ Deployment (FastAPI/Docker)
-```
+> *Screenshots with memory.*
 
-- Working through a self-built AI/ML roadmap (Month 1: Python foundations & ML, Month 2: Deep Learning & NLP)
-- Resume-worthy projects on the way: RAG chatbot, YOLOv8 object detection, MLOps pipeline
+**Chrome MV3** extension — capture, organize, and revisit webpage screenshots without leaving the browser.
+
+- `Ctrl/Cmd+Shift+S` shortcut or one-click toolbar capture
+- Auto-saves to `Downloads/saveshots/` with site name, URL & timestamp
+- Searchable history panel with rename, revisit & folder-browser views
+- Fully local — nothing leaves your machine
+
+🔗 [`github.com/Prateek-Kumar-Anand/SPider-web-extension`](https://github.com/Prateek-Kumar-Anand/SPider-web-extension)
 
 ---
 
-### 📫 Connect With Me
+## 🔐 IoT Security Projects
 
-<p align="center">
-  <a href="https://github.com/Prateek-Kumar-Anand">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+> *ESP32 DevKit V1 — from password vaults to browser-controlled hardware.*
+
+A growing collection of self-contained `.ino` sketches across three categories:
+
+- **Display** — TFT (ST7735): block game, browser-to-display chat, live sensor graph
+- **Manual control** — button/PIR-driven LEDs, servos & motion alarms
+- **Web server** — 15+ sketches: password vault, OTA updates, motor & fan control, graphing calculator, tic-tac-toe, offline chat — all served from the ESP32 itself
+
+🔗 [`github.com/Prateek-Kumar-Anand/iot-security-projects`](https://github.com/Prateek-Kumar-Anand/iot-security-projects)
+
+---
+
+## 🐍 Python Data Handling
+
+> *Learning data fundamentals, one script at a time.*
+
+Practice-focused scripts covering core data-work skills.
+
+- **Data handling** — `pandas` basics, `dropna()` / `fillna()`, and a messy sample CSV to practice on
+- **Functions** — loops, conditionals, user-input programs (student register, age-gated survey)
+- **Web scraping** — first steps with `requests` + `BeautifulSoup`
+
+🔗 [`github.com/Prateek-Kumar-Anand/Python-coding-Missing_Data_Handeling`](https://github.com/Prateek-Kumar-Anand/Python-coding-Missing_Data_Handeling)
 
 ---
 
 <div align="center">
 
-⭐ **"Learning by building, one project at a time."** ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
+*Each project has its own README with setup, permissions & architecture notes.*
 
 </div>
