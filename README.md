@@ -1,126 +1,90 @@
+<!-- Note to self: repo links below assume the GitHub username "prateek-kumar-anand" (the working Pages URL in the Student Toolkit README confirms this account). A few project links were inferred from folder/clone-URL names since not every README included an explicit repo URL — double-check these and fix any that don't match your actual repos. The "Experimenting with AI" link uses "prateek-anand" specifically, since that's the username given in that repo's own clone command. -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Prateek%20Kumar%20Anand&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+# Hi, I'm Prateek Kumar Anand 👋
 
-### Self-taught dev building games · browser extensions · IoT · and learning data one script at a time
-
-<br/>
+Building across the stack — browser extensions, Android, full-stack web tools, and embedded IoT.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++ Arduino](https://img.shields.io/badge/C%2B%2B%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+- 🔭 Currently exploring core AI/ML fundamentals with PyTorch, and expanding a Python data-handling practice repo
+- 🧰 Shipping projects across Chrome extensions, Android (Kotlin), client-side web tools, and ESP32/IoT
+- 💬 Ask me about Chrome extension APIs, Android/Kotlin, or doing PDF/Excel/OCR processing entirely client-side
+
+---
+
+## 🚀 Featured Projects
+
+### 🧩 Browser Extensions
+
+**[🛡️ Ads Refiner — Safe Link Guard](https://github.com/Prateek-Kumar-Anand/Ads-refiner-extension)**
+Privacy-first Manifest V3 extension that blocks ads & trackers, warns you before phishing/lookalike links, cancels risky downloads, and rolls it all into a local analytics dashboard. No accounts, nothing leaves the browser.
+`JavaScript` `Chrome Extensions API` `declarativeNetRequest`
+
+**[📸 SPider](https://github.com/prateek-kumar-anand/SPider)**
+One-click tab screenshots with automatic metadata (site, title, URL, timestamp), a searchable capture history with in-place renaming, and a built-in folder browser — everything saved locally.
+`JavaScript` `Chrome Extensions API`
+
+**[📊 DataGrapher — Smart Data Extractor](https://github.com/prateek-kumar-anand/DataGrapher)**
+Scans any webpage for numeric data, lets you map values to X/Y chart axes, and exports the result as a PNG or CSV. Fully offline — no host permissions, no tracking.
+`JavaScript` `Chart.js`
+
+### 📱 Mobile
+
+**[Data Toolkit](https://github.com/prateek-kumar-anand/DataToolkit)**
+Native Android app covering data cleaning, on-device OCR (ML Kit), PDF tools, Excel/CSV conversion, web scraping, batch processing (WorkManager), smart caching, and more — with a quality-scoring analytics dashboard.
+`Kotlin` `Room` `WorkManager` `ML Kit` `PdfBox-Android`
+
+### 🌐 Web Apps
+
+**[🎓 Student Toolkit](https://github.com/prateek-kumar-anand/Toolkit-Web-Application)** — [live demo](https://prateek-kumar-anand.github.io/Toolkit-Web-Application/)
+Eleven tools on one page, zero servers: résumé builder, PDF editor & compressor, Excel cleaner, zip tool, image editor, QR generator/scanner, file converter, OCR-to-editable-PDF, EPUB-to-PDF, and native file sharing — all client-side.
+`JavaScript` `pdf-lib` `pdf.js` `Tesseract.js` `SheetJS`
+
+**[⚛️ QUANTA — Atomic Physics Laboratory](https://github.com/prateek-kumar-anand/QUANTA)**
+Interactive browser physics lab with 10 guided modules — including atomic structure, hydrogen spectra, thermodynamics, fluid dynamics, quantum physics, electromagnetism, and optics — with 3D visualizations and a built-in theory drawer.
+`React` `Three.js` `React Three Fiber` `Recharts` `Vite`
+
+### 🔌 IoT & Embedded
+
+**[IoT Security Projects](https://github.com/prateek-kumar-anand/iot-security-projects)**
+A growing archive of ESP32 builds, including NVS-backed password vaults, PIR motion alarms, browser-controlled motors/servos/fans, TFT display games and live sensor graphs, and OTA firmware updates.
+`C++` `Arduino` `ESP32`
+
+### 📚 Learning & Practice
+
+**[Experimenting with AI](https://github.com/prateek-anand/Experimenting-with-AI)**
+Hands-on study of core AI/ML concepts — currently working through PyTorch tensor fundamentals in runnable Jupyter notebooks.
+`Python` `PyTorch` `Jupyter`
+
+**[Python Coding](https://github.com/prateek-kumar-anand/Python-coding-Missing_Data_Handeling)**
+Practice scripts for everyday data work — DataFrame cleaning and missing-value handling with pandas, reusable functions, and web scraping with BeautifulSoup.
+`Python` `pandas` `BeautifulSoup`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateek-kumar-anand&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-kumar-anand&layout=compact&hide_border=true)
 
 </div>
 
 ---
 
-## 🗂 Projects
-
-| | Project | Stack | What it does |
-|---|---|---|---|
-| ⚡ | [**Iron Slug — City Warfare**](#-iron-slug--city-warfare) | HTML5 Canvas · JS | 2D run-and-gun game, PWA + Android |
-| 🛡️ | [**Ads Refiner**](#%EF%B8%8F-ads-refiner--safe-link-guard) | JS · Chrome MV3 | Ad blocker + phishing & download protection |
-| 📊 | [**DataGrapher**](#-datagrapher) | JS · Chart.js | Scrapes numbers off any page, charts them offline |
-| 🕸️ | [**SPider**](#%EF%B8%8F-spider) | JS · Chrome MV3 | One-click screenshot capture & organizer |
-| 🔐 | [**IoT Security Projects**](#-iot-security-projects) | C++ · ESP32 | Password vaults, sensors, browser-controlled hardware |
-| 🐍 | [**Python Data Handling**](#-python-data-handling) | Python · pandas | Data cleaning, functions & web scraping practice |
-
----
-
-## ⚡ Iron Slug — City Warfare
-
-> *Retro 2D side-scroller — no engine, no frameworks, just Canvas.*
-
-Built in vanilla **HTML5 / CSS3 / JS** — playable on desktop and Android via PWA + touch controls.
-
-- 3 enemy types (Brawler · Rusher · Sniper) each with unique AI
-- Full Level 1 with sub-stages, fall pits & a multi-phase boss
-- Offline-capable via service worker caching
-- Extensible stage-builder pattern for future levels
-
-🔗 [`github.com/Prateek-Kumar-Anand/Web-game`](https://github.com/Prateek-Kumar-Anand/Web-game)
-
----
-
-## 🛡️ Ads Refiner — Safe Link Guard
-
-> *Privacy-first Chrome extension. No accounts, no API keys, fully local.*
-
-**v2.0.1 · Chrome MV3** — blocks ads, flags phishing links, and cancels risky downloads.
-
-- Native `declarativeNetRequest` blocking + cosmetic hiding
-- Suspicious-link interstitial — catches raw IPs, punycode, bad TLDs, unsafe downloads
-- Analytics dashboard — block history, domain reputation, whitelist, CSV/JSON export
-- Bonus: live RAM monitor + per-site time tracker
-
-🔗 [`github.com/Prateek-Kumar-Anand/Ads-refiner-extension`](https://github.com/Prateek-Kumar-Anand/Ads-refiner-extension)
-
----
-
-## 📊 DataGrapher
-
-> *Point it at any webpage — get a chart.*
-
-Lightweight **Chrome MV3** extension *(repo: Euler)* that extracts numbers from page text and lets you visualize them instantly — 100% offline.
-
-- Regex-based extraction of number + context-word pairs from full page or selection
-- Bar / Line / Pie via a **bundled offline** Chart.js (zero network dependency)
-- Export to PNG or CSV in one click
-- Minimal permissions: `activeTab` + `scripting` only
-
-🔗 [`github.com/Prateek-Kumar-Anand/Euler`](https://github.com/Prateek-Kumar-Anand/Euler)
-
----
-
-## 🕸️ SPider
-
-> *Screenshots with memory.*
-
-**Chrome MV3** extension — capture, organize, and revisit webpage screenshots without leaving the browser.
-
-- `Ctrl/Cmd+Shift+S` shortcut or one-click toolbar capture
-- Auto-saves to `Downloads/saveshots/` with site name, URL & timestamp
-- Searchable history panel with rename, revisit & folder-browser views
-- Fully local — nothing leaves your machine
-
-🔗 [`github.com/Prateek-Kumar-Anand/SPider-web-extension`](https://github.com/Prateek-Kumar-Anand/SPider-web-extension)
-
----
-
-## 🔐 IoT Security Projects
-
-> *ESP32 DevKit V1 — from password vaults to browser-controlled hardware.*
-
-A growing collection of self-contained `.ino` sketches across three categories:
-
-- **Display** — TFT (ST7735): block game, browser-to-display chat, live sensor graph
-- **Manual control** — button/PIR-driven LEDs, servos & motion alarms
-- **Web server** — 15+ sketches: password vault, OTA updates, motor & fan control, graphing calculator, tic-tac-toe, offline chat — all served from the ESP32 itself
-
-🔗 [`github.com/Prateek-Kumar-Anand/iot-security-projects`](https://github.com/Prateek-Kumar-Anand/iot-security-projects)
-
----
-
-## 🐍 Python Data Handling
-
-> *Learning data fundamentals, one script at a time.*
-
-Practice-focused scripts covering core data-work skills.
-
-- **Data handling** — `pandas` basics, `dropna()` / `fillna()`, and a messy sample CSV to practice on
-- **Functions** — loops, conditionals, user-input programs (student register, age-gated survey)
-- **Web scraping** — first steps with `requests` + `BeautifulSoup`
-
-🔗 [`github.com/Prateek-Kumar-Anand/Python-coding-Missing_Data_Handeling`](https://github.com/Prateek-Kumar-Anand/Python-coding-Missing_Data_Handeling)
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-*Each project has its own README with setup, permissions & architecture notes.*
+Issues and pull requests are welcome across all of the above — feel free to explore, fork, and build on any of it. ⭐
 
 </div>
