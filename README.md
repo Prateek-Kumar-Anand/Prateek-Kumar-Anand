@@ -1,10 +1,8 @@
-<!-- Note to self: repo links below assume the GitHub username "prateek-kumar-anand" (the working Pages URL in the Student Toolkit README confirms this account). A few project links were inferred from folder/clone-URL names since not every README included an explicit repo URL — double-check these and fix any that don't match your actual repos. The "Experimenting with AI" link uses "prateek-anand" specifically, since that's the username given in that repo's own clone command. -->
+<!-- Note to self: repo links assume GitHub username "prateek-kumar-anand" (confirmed via the Student Toolkit's live Pages URL). A few links are inferred from folder/clone-URL names since not every project README gave an explicit repo URL — double-check against your actual repos. "Experimenting with AI" uses "prateek-anand", the username its own clone command pointed to. Stats widgets below also depend on that username being correct. -->
 
 <div align="center">
 
-# Hi, I'm Prateek Kumar Anand 👋
-
-Building across the stack — browser extensions, Android, full-stack web tools, and embedded IoT.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Prateek%20Kumar%20Anand&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Browser%20Extensions%20-%20Android%20-%20Web%20-%20IoT&descAlignY=62&descSize=16)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,77 +12,101 @@ Building across the stack — browser extensions, Android, full-stack web tools,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+🔭 Currently exploring AI/ML fundamentals with PyTorch &nbsp;·&nbsp; 💬 Ask me about Chrome extension APIs, Android/Kotlin, or client-side document processing
+
 </div>
 
-- 🔭 Currently exploring core AI/ML fundamentals with PyTorch, and expanding a Python data-handling practice repo
-- 🧰 Shipping projects across Chrome extensions, Android (Kotlin), client-side web tools, and ESP32/IoT
-- 💬 Ask me about Chrome extension APIs, Android/Kotlin, or doing PDF/Excel/OCR processing entirely client-side
+<br>
 
----
+## 📈 At a Glance
+
+<div align="center">
+
+| 🧩 Extensions | 📱 Mobile | 🌐 Web Apps | 🔌 IoT / Embedded | 📚 Learning |
+|:---:|:---:|:---:|:---:|:---:|
+| **3** | **1** | **2** | **1** | **2** |
+
+</div>
+
+```mermaid
+pie title Featured Projects by Category
+    "Browser Extensions" : 3
+    "Web Apps" : 2
+    "Learning & Practice" : 2
+    "Mobile" : 1
+    "IoT & Embedded" : 1
+```
+
+<br>
 
 ## 🚀 Featured Projects
 
 ### 🧩 Browser Extensions
 
-**[🛡️ Ads Refiner — Safe Link Guard](https://github.com/Prateek-Kumar-Anand/Ads-refiner-extension)**
-Privacy-first Manifest V3 extension that blocks ads & trackers, warns you before phishing/lookalike links, cancels risky downloads, and rolls it all into a local analytics dashboard. No accounts, nothing leaves the browser.
-`JavaScript` `Chrome Extensions API` `declarativeNetRequest`
-
-**[📸 SPider](https://github.com/prateek-kumar-anand/SPider)**
-One-click tab screenshots with automatic metadata (site, title, URL, timestamp), a searchable capture history with in-place renaming, and a built-in folder browser — everything saved locally.
-`JavaScript` `Chrome Extensions API`
-
-**[📊 DataGrapher — Smart Data Extractor](https://github.com/prateek-kumar-anand/DataGrapher)**
-Scans any webpage for numeric data, lets you map values to X/Y chart axes, and exports the result as a PNG or CSV. Fully offline — no host permissions, no tracking.
-`JavaScript` `Chart.js`
+| Project | Description | Tech |
+|---|---|---|
+| **[🛡️ Ads Refiner — Safe Link Guard](https://github.com/Prateek-Kumar-Anand/Ads-refiner-extension)** | Privacy-first Manifest V3 blocker — ads, trackers, phishing-link warnings, risky-download protection, and a local analytics dashboard | `JavaScript` `declarativeNetRequest` |
+| **[📸 SPider](https://github.com/prateek-kumar-anand/SPider)** | One-click tab screenshots with automatic metadata, a searchable capture history, and a folder browser | `JavaScript` |
+| **[📊 DataGrapher](https://github.com/prateek-kumar-anand/DataGrapher)** | Scans any webpage for numeric data, maps it to chart axes, exports as PNG/CSV — fully offline | `JavaScript` `Chart.js` |
 
 ### 📱 Mobile
 
-**[Data Toolkit](https://github.com/prateek-kumar-anand/DataToolkit)**
-Native Android app covering data cleaning, on-device OCR (ML Kit), PDF tools, Excel/CSV conversion, web scraping, batch processing (WorkManager), smart caching, and more — with a quality-scoring analytics dashboard.
-`Kotlin` `Room` `WorkManager` `ML Kit` `PdfBox-Android`
+| Project | Description | Tech |
+|---|---|---|
+| **[Data Toolkit](https://github.com/prateek-kumar-anand/DataToolkit)** | On-device data cleaning, OCR, PDF tools, Excel/CSV conversion, web scraping, and batch processing, with a quality-scoring dashboard | `Kotlin` `Room` `WorkManager` `ML Kit` |
 
 ### 🌐 Web Apps
 
-**[🎓 Student Toolkit](https://github.com/prateek-kumar-anand/Toolkit-Web-Application)** — [live demo](https://prateek-kumar-anand.github.io/Toolkit-Web-Application/)
-Eleven tools on one page, zero servers: résumé builder, PDF editor & compressor, Excel cleaner, zip tool, image editor, QR generator/scanner, file converter, OCR-to-editable-PDF, EPUB-to-PDF, and native file sharing — all client-side.
-`JavaScript` `pdf-lib` `pdf.js` `Tesseract.js` `SheetJS`
-
-**[⚛️ QUANTA — Atomic Physics Laboratory](https://github.com/prateek-kumar-anand/QUANTA)**
-Interactive browser physics lab with 10 guided modules — including atomic structure, hydrogen spectra, thermodynamics, fluid dynamics, quantum physics, electromagnetism, and optics — with 3D visualizations and a built-in theory drawer.
-`React` `Three.js` `React Three Fiber` `Recharts` `Vite`
+| Project | Description | Tech |
+|---|---|---|
+| **[🎓 Student Toolkit](https://github.com/prateek-kumar-anand/Toolkit-Web-Application)** ([demo](https://prateek-kumar-anand.github.io/Toolkit-Web-Application/)) | 11 browser tools on one page — résumé builder, PDF editor & compressor, Excel cleaner, OCR-to-PDF, EPUB-to-PDF, and more. Zero backend | `JavaScript` `pdf-lib` `Tesseract.js` |
+| **[⚛️ QUANTA — Atomic Physics Lab](https://github.com/prateek-kumar-anand/QUANTA)** | Interactive physics lab, 10 guided modules from atomic structure to optics, with 3D visualizations | `React` `Three.js` `Recharts` |
 
 ### 🔌 IoT & Embedded
 
-**[IoT Security Projects](https://github.com/prateek-kumar-anand/iot-security-projects)**
-A growing archive of ESP32 builds, including NVS-backed password vaults, PIR motion alarms, browser-controlled motors/servos/fans, TFT display games and live sensor graphs, and OTA firmware updates.
-`C++` `Arduino` `ESP32`
+| Project | Description | Tech |
+|---|---|---|
+| **[IoT Security Projects](https://github.com/prateek-kumar-anand/iot-security-projects)** | ESP32 builds — password vaults, motion alarms, browser-controlled motors/servos, TFT display games, OTA updates | `C++` `Arduino` `ESP32` |
 
 ### 📚 Learning & Practice
 
-**[Experimenting with AI](https://github.com/prateek-anand/Experimenting-with-AI)**
-Hands-on study of core AI/ML concepts — currently working through PyTorch tensor fundamentals in runnable Jupyter notebooks.
-`Python` `PyTorch` `Jupyter`
+| Project | Description | Tech |
+|---|---|---|
+| **[Experimenting with AI](https://github.com/prateek-anand/Experimenting-with-AI)** | Hands-on PyTorch tensor fundamentals, worked through in runnable Jupyter notebooks | `Python` `PyTorch` |
+| **[Python Coding](https://github.com/prateek-kumar-anand/Python-coding-Missing_Data_Handeling)** | pandas data cleaning, missing-value handling, reusable functions, and BeautifulSoup web scraping practice | `Python` `pandas` `BeautifulSoup` |
 
-**[Python Coding](https://github.com/prateek-kumar-anand/Python-coding-Missing_Data_Handeling)**
-Practice scripts for everyday data work — DataFrame cleaning and missing-value handling with pandas, reusable functions, and web scraping with BeautifulSoup.
-`Python` `pandas` `BeautifulSoup`
+<br>
 
----
+## 🛠️ Tech Stack
+
+| Language | Used In |
+|---|---|
+| **JavaScript** | Ads Refiner, SPider, DataGrapher, Student Toolkit, QUANTA |
+| **Python** | Experimenting with AI, Python Coding |
+| **Kotlin** | Data Toolkit |
+| **C++ (Arduino)** | IoT Security Projects |
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateek-kumar-anand&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-kumar-anand&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=prateek-kumar-anand&show_icons=true&hide_border=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-kumar-anand&hide_border=true&theme=tokyonight" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-kumar-anand&layout=compact&hide_border=true&theme=tokyonight" width="49%" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateek-kumar-anand&theme=tokyo-night&hide_border=true)
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 Issues and pull requests are welcome across all of the above — feel free to explore, fork, and build on any of it. ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
