@@ -91,10 +91,10 @@ xychart-beta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prateek-Kumar-Anand&show_icons=true&hide_border=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prateek-Kumar-Anand&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateek-Kumar-Anand&hide_border=true&theme=tokyonight" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-Kumar-Anand&layout=compact&hide_border=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-Kumar-Anand&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" width="49%" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateek-Kumar-Anand&theme=tokyo-night&hide_border=true)
 
