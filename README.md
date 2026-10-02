@@ -104,7 +104,7 @@ xychart-beta
 
 <div align="center">
 
-Issues and pull requests are welcome across all of the above — feel free to explore, fork, and build on any of it. ⭐
+Issues   and pull requests are welcome across all of the above — feel free to explore, fork, and build on any of it. ⭐
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
